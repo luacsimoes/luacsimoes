@@ -1,4 +1,4 @@
-## Oiii, eu sou a Luana Simões, estudante de engenharia e apaixonada por tecnologia!
+## Hi,I'm Luana Simões, QA Engineer and currently doing a master in NZ!
 
 <div align="center">
   <a href="https://github.com/luacsimoes">
