@@ -1,4 +1,4 @@
-## Hi,I'm Luana Simões, QA Engineer and currently doing a master in NZ!
+## Hi, I'm Luana Simões, QA Engineer and currently doing a master in NZ!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
